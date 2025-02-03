@@ -39,7 +39,11 @@ namespace Bookstore.StepDefinitions
         [Then(@"the various buttons should be visible and clickable")]
         public void ThenTheVariousButtonsShouldBeVisibleAndClickable()
         {
-            profilePage.VerifyButtons();
+            profilePage.VerifyLogoutButton();
+            profilePage.VerifyGoToStoreButton();
+            profilePage.VerifyDeleteAccButton();
+            profilePage.VerifyDeleteAllBooksButton();
+
         }
 
         [Given(@"the user is not logged into the application")]

@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Nisch\\OneDrive\\Desktop\\Bookstore_selenium_specflow\\Bookstore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A310316-2197-465B-934D-386621A6E723}|Bookstore.csproj|c:\\users\\nisch\\onedrive\\desktop\\bookstore_selenium_specflow\\bookstore\\pages\\bookstorepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A310316-2197-465B-934D-386621A6E723}|Bookstore.csproj|solutionrelative:pages\\bookstorepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A310316-2197-465B-934D-386621A6E723}|Bookstore.csproj|c:\\users\\nisch\\onedrive\\desktop\\bookstore_selenium_specflow\\bookstore\\pages\\profilepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A310316-2197-465B-934D-386621A6E723}|Bookstore.csproj|solutionrelative:pages\\profilepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A310316-2197-465B-934D-386621A6E723}|Bookstore.csproj|c:\\users\\nisch\\onedrive\\desktop\\bookstore_selenium_specflow\\bookstore\\stepdefinitions\\searchstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A310316-2197-465B-934D-386621A6E723}|Bookstore.csproj|solutionrelative:stepdefinitions\\searchstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A310316-2197-465B-934D-386621A6E723}|Bookstore.csproj|c:\\users\\nisch\\onedrive\\desktop\\bookstore_selenium_specflow\\bookstore\\stepdefinitions\\profilestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A310316-2197-465B-934D-386621A6E723}|Bookstore.csproj|solutionrelative:stepdefinitions\\profilestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A310316-2197-465B-934D-386621A6E723}|Bookstore.csproj|c:\\users\\nisch\\onedrive\\desktop\\bookstore_selenium_specflow\\bookstore\\features\\search.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{4A310316-2197-465B-934D-386621A6E723}|Bookstore.csproj|solutionrelative:features\\search.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A310316-2197-465B-934D-386621A6E723}|Bookstore.csproj|c:\\users\\nisch\\onedrive\\desktop\\bookstore_selenium_specflow\\bookstore\\pages\\commonwebinteractions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A310316-2197-465B-934D-386621A6E723}|Bookstore.csproj|solutionrelative:pages\\commonwebinteractions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A310316-2197-465B-934D-386621A6E723}|Bookstore.csproj|c:\\users\\nisch\\onedrive\\desktop\\bookstore_selenium_specflow\\bookstore\\hooks\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A310316-2197-465B-934D-386621A6E723}|Bookstore.csproj|solutionrelative:hooks\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A310316-2197-465B-934D-386621A6E723}|Bookstore.csproj|c:\\users\\nisch\\onedrive\\desktop\\bookstore_selenium_specflow\\bookstore\\features\\profile.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4A310316-2197-465B-934D-386621A6E723}|Bookstore.csproj|solutionrelative:features\\profile.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,72 +22,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SearchStepDefinitions.cs",
-              "DocumentMoniker": "C:\\Users\\Nisch\\OneDrive\\Desktop\\Bookstore_selenium_specflow\\Bookstore\\StepDefinitions\\SearchStepDefinitions.cs",
-              "RelativeDocumentMoniker": "StepDefinitions\\SearchStepDefinitions.cs",
-              "ToolTip": "C:\\Users\\Nisch\\OneDrive\\Desktop\\Bookstore_selenium_specflow\\Bookstore\\StepDefinitions\\SearchStepDefinitions.cs",
-              "RelativeToolTip": "StepDefinitions\\SearchStepDefinitions.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAcwFIAAAAqAAAAAAAAAA==",
+              "Title": "ProfileStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\Nisch\\OneDrive\\Desktop\\Bookstore_selenium_specflow\\Bookstore\\StepDefinitions\\ProfileStepDefinitions.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\ProfileStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\Nisch\\OneDrive\\Desktop\\Bookstore_selenium_specflow\\Bookstore\\StepDefinitions\\ProfileStepDefinitions.cs",
+              "RelativeToolTip": "StepDefinitions\\ProfileStepDefinitions.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wCwAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T14:33:26.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T07:35:53.436Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Hooks.cs",
-              "DocumentMoniker": "C:\\Users\\Nisch\\OneDrive\\Desktop\\Bookstore_selenium_specflow\\Bookstore\\Hooks\\Hooks.cs",
-              "RelativeDocumentMoniker": "Hooks\\Hooks.cs",
-              "ToolTip": "C:\\Users\\Nisch\\OneDrive\\Desktop\\Bookstore_selenium_specflow\\Bookstore\\Hooks\\Hooks.cs",
-              "RelativeToolTip": "Hooks\\Hooks.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAUwAsAAAApAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ProfilePage.cs",
+              "DocumentMoniker": "C:\\Users\\Nisch\\OneDrive\\Desktop\\Bookstore_selenium_specflow\\Bookstore\\pages\\ProfilePage.cs",
+              "RelativeDocumentMoniker": "pages\\ProfilePage.cs",
+              "ToolTip": "C:\\Users\\Nisch\\OneDrive\\Desktop\\Bookstore_selenium_specflow\\Bookstore\\pages\\ProfilePage.cs",
+              "RelativeToolTip": "pages\\ProfilePage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T14:09:25.667Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CommonWebInteractions.cs",
-              "DocumentMoniker": "C:\\Users\\Nisch\\OneDrive\\Desktop\\Bookstore_selenium_specflow\\Bookstore\\pages\\CommonWebInteractions.cs",
-              "RelativeDocumentMoniker": "pages\\CommonWebInteractions.cs",
-              "ToolTip": "C:\\Users\\Nisch\\OneDrive\\Desktop\\Bookstore_selenium_specflow\\Bookstore\\pages\\CommonWebInteractions.cs",
-              "RelativeToolTip": "pages\\CommonWebInteractions.cs",
-              "ViewState": "AgIAAGcAAAAAAAAAAAArwKMAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T12:54:21.422Z",
+              "WhenOpened": "2025-02-03T07:36:21.206Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Search.feature",
-              "DocumentMoniker": "C:\\Users\\Nisch\\OneDrive\\Desktop\\Bookstore_selenium_specflow\\Bookstore\\Features\\Search.feature",
-              "RelativeDocumentMoniker": "Features\\Search.feature",
-              "ToolTip": "C:\\Users\\Nisch\\OneDrive\\Desktop\\Bookstore_selenium_specflow\\Bookstore\\Features\\Search.feature",
-              "RelativeToolTip": "Features\\Search.feature",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAABAAAAAAAAAAA==",
+              "Title": "Profile.feature",
+              "DocumentMoniker": "C:\\Users\\Nisch\\OneDrive\\Desktop\\Bookstore_selenium_specflow\\Bookstore\\Features\\Profile.feature",
+              "RelativeDocumentMoniker": "Features\\Profile.feature",
+              "ToolTip": "C:\\Users\\Nisch\\OneDrive\\Desktop\\Bookstore_selenium_specflow\\Bookstore\\Features\\Profile.feature",
+              "RelativeToolTip": "Features\\Profile.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPtSURBVDhPdZTLb1RVHMc/59x75965M3Q6M31RYaBprVAgGDFUEQiIgroBV0JcmLjwsZIYXbnWP8CNe6NREiWEkJBAIo9EUwpINaANIW3pAzptmemUuXfmPo8LZvpK/K5Ozvn9Pud7zu\u002BXn\u002BD/9FU2yc7ERqAAdAAxMItiirt\u002BkW/K9fUpKKXEmo23gS9kiuHMfjr0Y9hydwNmNiLqKB5Ti\u002B8wEV7gu8ptFuLaaoS2vHrFlByze\u002Bg1j6OZH6DLAwLxghRyo0LlQeQ0obUJIbqUQYGs7KNV\u002BuxIlLBklelwHfBNu4s99hEqxococTCl27mBln6jJ71FVAOXjXYnu1sHhKWZiQWvlEOKXgpGmj7jMUtxkRHfWwG2ScFL5kEKxingiERqXVYHJwsnONy5j0l3hsH8Ht4rHEcpuFX\u002BC0ACW4EKs\u002BE0E\u002BEjHIUE4NOMzaB1CDgskKJFTxOoEEtLssUusCszwL62l9mgpwnVs6c1ZABH2W/t57MMADoAphhAFz2WtNLPb\u002BgRn2/7hBl3lofONL/P3\u002BBhbYYJd5JYKcaqD5uwZkE3gehDkAeePHMIvUB7RKQFKkAg6E52Ug4qDJfvMFad4GZphKEnt5lyZ5rAppIoOojZROMfAHKAHcQh816J4YU/KdbnqYYO1dDBCV3K/iJB7NNm5uhL99CWyKOJ5ZqmgLbVQAAEAhAEKmQxqOAEDrGKkQgkkqzZymvtezm15V0OtA9ia8lmqmx\u002BXxM4Bzi2nmRHpp/T/R/xRudBtqYLZPQMGaOFvJnFEhabk92803WE0/0fkzOzTWANKLPcNq8nJTltj1Jqey3yRLE\u002Bx7W5ITbbz3Go/VUSusne/IscaB/kaehw4dElhksj3K2M4sd\u002BCGqIcnyW32rOM4fXapOMB/\u002BEKpye8xY4P3OJ4dIdbD3JQGs/hjRIaSl2ZbYjkVyZ\u002B4PLs1dxQhdgmrHgAddqpRWHY6FHQbfoNfIK1VOP60ZCGqI72YUbu1yfG6ISLJHWU4y7k9yt/Es9ritQIair3PQv8qtzn1W9BO\u002BnWzhqv4UhvkSwA0hY0hKalMIJXQSShJYgVhFBHKjG9Cnix19zqfYLP1bnVxwCTIYBTjzLLvNeo0lbIxXZQRw2CqeIVUSkIhqwCvAtZ6oXuVybwVNqLdBTisWoTjleYJs5jsaDRuUMoH05DjzgPr76gTPVs9yoj1OK/ebhChDAUYpi6KGLKcaDCSRLZLUssBNwgSlgiCfRea7XznLZfUBJeasRa4E07v/bV4z4VTr0OtsS6cZUGQV1hXL8M7f8c3z/9BEe0fr0tRN7vU5uyHAitRnoBkYRUZFzrsdPzvrIZf0HlF2bQabSBKQAAAAASUVORK5CYII=",
-              "WhenOpened": "2025-02-02T11:32:13.552Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BookstorePage.cs",
-              "DocumentMoniker": "C:\\Users\\Nisch\\OneDrive\\Desktop\\Bookstore_selenium_specflow\\Bookstore\\pages\\BookstorePage.cs",
-              "RelativeDocumentMoniker": "pages\\BookstorePage.cs",
-              "ToolTip": "C:\\Users\\Nisch\\OneDrive\\Desktop\\Bookstore_selenium_specflow\\Bookstore\\pages\\BookstorePage.cs",
-              "RelativeToolTip": "pages\\BookstorePage.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAawEQAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T11:27:52.992Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T07:36:18.971Z"
             }
           ]
         }

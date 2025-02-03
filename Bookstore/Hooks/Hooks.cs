@@ -13,7 +13,7 @@ namespace Bookstore.Hooks
         private LoginPage loginPage;
         private ProfilePage profilePage;
 
-        [BeforeScenario("@RequiresLogin",Order =2)]
+        [BeforeScenario("@RequiresLogin",Order =2)] 
         public void BeforeScenarioWithTag()
         {
            

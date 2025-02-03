@@ -120,3 +120,4 @@ C:\Users\Nisch\OneDrive\Desktop\Bookstore_selenium_specflow\Bookstore\bin\Debug\
 C:\Users\Nisch\OneDrive\Desktop\Bookstore_selenium_specflow\Bookstore\bin\Debug\net6.0\System.Text.Json.dll
 C:\Users\Nisch\OneDrive\Desktop\Bookstore_selenium_specflow\Bookstore\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 C:\Users\Nisch\OneDrive\Desktop\Bookstore_selenium_specflow\Bookstore\bin\Debug\net6.0\SeleniumExtras.WaitHelpers.dll
+C:\Users\Nisch\OneDrive\Desktop\Bookstore_selenium_specflow\Bookstore\obj\Debug\net6.0\Bookstore.sourcelink.json

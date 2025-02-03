@@ -3,9 +3,10 @@
     "",
     "\\Bookstore",
     "\\Bookstore\\Features",
+    "\\Bookstore\\Hooks",
     "\\Bookstore\\pages",
     "\\Bookstore\\StepDefinitions"
   ],
-  "SelectedNode": "\\Bookstore\\pages\\LoginPage.cs",
+  "SelectedNode": "\\Bookstore\\pages\\BookstorePage.cs",
   "PreviewInSolutionExplorer": false
 }

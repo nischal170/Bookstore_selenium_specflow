@@ -15,7 +15,7 @@ namespace Bookstore.pages
         private By LogOut = By.XPath("//button[contains(text(), 'Log out')]");
         private By GoToStoreBtn = By.XPath("//button[@id='gotoStore']");
         private By DelAccBtn = By.XPath("//button[contains(text(), 'Delete Account')]");
-        private By DelAllBooks = By.XPath("//div[contains(@class, 'do')]//button[contains(text(), 'Delete All Books')]");
+        private By DelAllBooks = By.XPath("//div[contains(@class, 'text-right')]//button[contains(text(), 'Delete All Books')]");
         private string[] TableColumns = { "Image", "Title", "Author", "Publisher","Action" };
         private By UsernameText=By.XPath("// div[@id='books-wrapper']/div[3]/label[2]");
         private By SearchBox = By.XPath("// input[@id='searchBox']");
@@ -45,30 +45,37 @@ namespace Bookstore.pages
             commonWebInteractions.CheckElementVisibility(SearchBox);
 
         }
-        public void VerifyButtons()
+
+        public void VerifyLogoutButton() 
         {
             commonWebInteractions.CheckElementVisibility(LogOut);
             commonWebInteractions.CheckButtonClickability(LogOut);
-
+        }
+        public void VerifyGoToStoreButton() 
+        {
             commonWebInteractions.CheckElementVisibility(GoToStoreBtn);
             commonWebInteractions.CheckButtonClickability(GoToStoreBtn);
+        }
+        public void VerifyDeleteAccButton() 
+        {
 
             commonWebInteractions.CheckElementVisibility(DelAccBtn);
             commonWebInteractions.CheckButtonClickability(DelAccBtn);
+        }
 
+        public void VerifyDeleteAllBooksButton()
+        {
             commonWebInteractions.CheckElementVisibility(DelAllBooks);
             commonWebInteractions.CheckButtonClickability(DelAllBooks);
         }
+         
+      
         public void ClickLogoutButton()
         {
             commonWebInteractions.ClickButton(LogOut);
 
         }
-        public void VerifyLogoutButton()
-        {
-            commonWebInteractions.CheckElementVisibility(LogOut);
-
-        }
+       
         public void VerifyMessage(string Message)
         {
             commonWebInteractions.VerifyText(Messagetxt,Message);
